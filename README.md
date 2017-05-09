@@ -8,7 +8,7 @@ The Puli Repository Component
 [![Total Downloads](https://poser.pugx.org/puli/repository/downloads.svg)](https://packagist.org/packages/puli/repository)
 [![Dependency Status](https://www.versioneye.com/php/puli:repository/1.0.0/badge.svg)](https://www.versioneye.com/php/puli:repository/1.0.0)
 
-Latest release: [1.0.0-beta10](https://packagist.org/packages/puli/repository#1.0.0-beta10)
+Latest release- [1.0.0-beta10](https://packagist.org/packages/puli/repository#1.0.0-beta10)
 
 PHP >= 5.3.9
 
@@ -41,7 +41,7 @@ The following [`Resource`] implementations are currently supported:
 * [`DirectoryResource`]
 * [`LinkResource`]
 
-Authors
+Authors Name
 -------
 
 * [Bernhard Schussek] a.k.a. [@webmozart]
