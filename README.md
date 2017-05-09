@@ -13,7 +13,7 @@ Latest release- [1.0.0-beta10](https://packagist.org/packages/puli/repository#1.
 PHP >= 5.3.9
 
 The [Puli] Repository Component provides an API for storing arbitrary resources
-in a filesystem-like repository:
+in a filesystem-like repository:-
 
 ```php
 use Puli\Repository\InMemoryRepository;
