@@ -50,7 +50,7 @@ Authors Name
 Installation
 ------------
 
-Follow the [Getting Started] guide to install Puli in your project.
+Follow the [Getting Started] guide to install Puli successfully in your project.
 
 Documentation
 -------------
